@@ -34,8 +34,7 @@ sudo docker compose up -d
 ```
 
 ## 🏗️ Архитектура и компоненты
-``text
-.
+```
 ./
 ├── admin/
 │   ├── db/
@@ -428,7 +427,7 @@ sudo docker compose up -d
 ├── README.md
 ├── tasks.dockerfile
 └── tasks.py
-~~~
+```
 
 P.S. Deploy:
 ```bash
